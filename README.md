@@ -34,4 +34,21 @@ Successfully accessed the shared folder from PC01 using local account authentica
 - Document troubleshooting and security improvements.
 
 ### Screenshots
-Screenshots will be added after validation.
+### Lab Screenshots
+
+The following screenshots document the SMB file sharing lab between DC01 and PC01.
+
+#### Screenshot 1
+![Lab Screenshot 1](1.png)
+
+#### Screenshot 2
+![Lab Screenshot 2](2.png)
+
+#### Screenshot 3
+![Lab Screenshot 3](3.png)
+
+#### Screenshot 4
+![Lab Screenshot 4](4.png)
+
+#### Screenshot 5
+![Lab Screenshot 5](5.png)
