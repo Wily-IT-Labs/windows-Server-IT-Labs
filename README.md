@@ -52,3 +52,12 @@ The following screenshots document the SMB file sharing lab between DC01 and PC0
 
 #### Screenshot 5
 ![Lab Screenshot 5](5.png)
+
+
+  ## Video Demonstration
+
+[▶ Watch Network Connectivity Lab Video](https://github.com/Wily-IT-Labs/windows-Server-IT-Labs/blob/main/Windows%20Server%202022%20Network%20Connectivity%20Lab.%20Mp4.mp4)
+
+Watch the hands-on demonstration of network
+connectivity testing between Windows Server
+2022 and Windows 11 virtual machines.
